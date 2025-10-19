@@ -36,16 +36,6 @@
 
 ---
 
-## 🧩 Fun Stats
-
-| Metric | Value |
-|--------|--------|
-| ⭐ Total Stars Earned | 23 |
-| 🧾 Total Commits (last year) | 35 |
-| 🔄 Total PRs | 78 |
-| 🐛 Total Issues | 57 |
-| 🌱 Contributed to (last year) | 1 |
-
 ---
 
 ## 🧠 Most Used Languages
