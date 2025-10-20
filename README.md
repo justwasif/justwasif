@@ -35,14 +35,6 @@
 💡 I’m always exploring new tools, contributing to open source, and experimenting with **NixOS** for reproducible development setups.  
 
 ---
-
----
-
-## 🧠 Most Used Languages
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=justwasif&theme=radical&langs_count=8&layout=compact)
-
----
 ## 🌐 Connect with me
 
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/wasif_genz)
