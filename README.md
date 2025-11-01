@@ -23,7 +23,6 @@
 
 ## 📊 GitHub Stats
 
-![Wasif's GitHub stats](https://github-readme-stats.vercel.app/api?username=justwasif&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=justwasif&layout=compact&theme=radical)
 [![GitHub Streak](https://streak-stats.demolab.com?user=justwasif&theme=radical&hide_border=true)](https://git.io/streak-stats)
 
