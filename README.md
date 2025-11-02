@@ -30,7 +30,7 @@
 
 ## 🚀 About Me
 
-👋 Hi, I’m **Wasif**, a passionate developer who loves building cool stuff with **React**, **Tailwind CSS**, and **Web3 technologies** like **Solidity** and **Ethers.js**.  
+👋 Hi, I’m **Wasif**, a passionate developer who loves building cool stuff with **Python Arcade**,**React**, **Tailwind CSS**, and **Web3 technologies** like **Solidity** and **Ethers.js**.  
 💡 I’m always exploring new tools, contributing to open source, and experimenting with **NixOS** for reproducible development setups.  
 
 ---
