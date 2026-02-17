@@ -19,12 +19,10 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Ethers.js](https://img.shields.io/badge/Ethers.js-2533A0?style=for-the-badge&logo=ethereum&logoColor=white)
 
----
 
-## 📊 GitHub Stats
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=justwasif&layout=compact&theme=radical)
-[![GitHub Streak](https://streak-stats.demolab.com?user=justwasif&theme=radical&hide_border=true)](https://git.io/streak-stats)
+
+
 
 ---
 
